@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Octobre Rose – le cancer du sein en 1 minute">
+  <title>Octobre Rose</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700;800&amp;family=Atkinson+Hyperlegible+Next:wght@500&amp;display=swap');
+    .t{font-family:Outfit,system-ui,sans-serif;font-weight:800;font-size:44px;letter-spacing:-1px}
+    .s{font-family:"Atkinson Hyperlegible Next",system-ui,sans-serif;font-weight:500;font-size:16px;fill:#f6a5c8}
+  </style>
+  <rect x="51" y="3" width="18" height="9" rx="3" fill="#a61e4d"/>
+  <rect x="57" y="10" width="6" height="8" fill="#a61e4d"/>
+  <circle cx="60" cy="66" r="48" fill="#fff8fa" stroke="#fde7f0" stroke-width="8"/>
+  <circle cx="60" cy="66" r="48" fill="none" stroke="#d6336c" stroke-width="8" stroke-linecap="round"
+          stroke-dasharray="226 302" transform="rotate(-90 60 66)"/>
+  <path d="M44 36 C44 44 52 53 60 64 L80 96" fill="none" stroke="#a61e4d"
+        stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 96 L60 64 C68 53 76 44 76 36 C76 26 69 21 60 21 C51 21 44 26 44 36"
+        fill="none" stroke="#f93c98" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="70" class="t"><tspan fill="#ffffff">Octobre </tspan><tspan fill="#f93c98">Rose</tspan></text>
+  <text x="130" y="96" class="s">le cancer du sein en 1 minute</text>
+</svg>

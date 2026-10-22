@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Octobre Rose">
+  <title>Octobre Rose</title>
+  <!-- Chronomètre : bouton + cadran, l'arc symbolise « 1 minute » -->
+  <rect x="51" y="3" width="18" height="9" rx="3" fill="#a61e4d"/>
+  <rect x="57" y="10" width="6" height="8" fill="#a61e4d"/>
+  <circle cx="60" cy="66" r="48" fill="#fff8fa" stroke="#fde7f0" stroke-width="8"/>
+  <circle cx="60" cy="66" r="48" fill="none" stroke="#d6336c" stroke-width="8" stroke-linecap="round"
+          stroke-dasharray="226 302" transform="rotate(-90 60 66)"/>
+  <!-- Ruban rose : brin arrière (foncé) puis brin avant (vif) -->
+  <path d="M44 36 C44 44 52 53 60 64 L80 96" fill="none" stroke="#a61e4d"
+        stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 96 L60 64 C68 53 76 44 76 36 C76 26 69 21 60 21 C51 21 44 26 44 36"
+        fill="none" stroke="#f93c98" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
